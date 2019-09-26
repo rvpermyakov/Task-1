@@ -1,0 +1,14 @@
+C:\Users\permy\source\repos\StepenStroki\StepenStroki\bin\Debug\StepenStroki.exe.config
+C:\Users\permy\source\repos\StepenStroki\StepenStroki\bin\Debug\StepenStroki.exe
+C:\Users\permy\source\repos\StepenStroki\StepenStroki\bin\Debug\StepenStroki.pdb
+C:\Users\permy\source\repos\StepenStroki\StepenStroki\obj\Debug\StepenStroki.csprojAssemblyReference.cache
+C:\Users\permy\source\repos\StepenStroki\StepenStroki\obj\Debug\StepenStroki.csproj.CoreCompileInputs.cache
+C:\Users\permy\source\repos\StepenStroki\StepenStroki\obj\Debug\StepenStroki.exe
+C:\Users\permy\source\repos\StepenStroki\StepenStroki\obj\Debug\StepenStroki.pdb
+C:\Users\permy\Desktop\Задания2\StepenStroki(1)\StepenStroki\bin\Debug\StepenStroki.exe.config
+C:\Users\permy\Desktop\Задания2\StepenStroki(1)\StepenStroki\bin\Debug\StepenStroki.exe
+C:\Users\permy\Desktop\Задания2\StepenStroki(1)\StepenStroki\bin\Debug\StepenStroki.pdb
+C:\Users\permy\Desktop\Задания2\StepenStroki(1)\StepenStroki\obj\Debug\StepenStroki.csprojAssemblyReference.cache
+C:\Users\permy\Desktop\Задания2\StepenStroki(1)\StepenStroki\obj\Debug\StepenStroki.csproj.CoreCompileInputs.cache
+C:\Users\permy\Desktop\Задания2\StepenStroki(1)\StepenStroki\obj\Debug\StepenStroki.exe
+C:\Users\permy\Desktop\Задания2\StepenStroki(1)\StepenStroki\obj\Debug\StepenStroki.pdb
